@@ -1,0 +1,17 @@
+Changelog.txt
+
+Week 6:
+20/04/2020 Formed a team of two for this project
+21/04/2020 We listed out all the questions and inquiries regarding ot assignment 2, and sent it to the unit chair
+22/04/2020 We chose GitHub as our version control system for this assignment
+
+
+Week 7:
+28/04/2020 Arranged time for meeting
+29/04/2020 We had 1 hour meeting through MS Teams. We chose our mobile app as data storage app - travel planner. 
+	We have discussed on task division.
+	Kingsley will focus on source code, data structures e.g. Runtime Variables, Permanent Storage Data, API/Class Structure.
+	Joey will focus on edit readme.txt, update changelog.txt in a weekly basis, source code images and sounds for licenses.txt, UX/UI design and design app logo.
+	We will both work on Project Proposal and Project Directory.
+
+
