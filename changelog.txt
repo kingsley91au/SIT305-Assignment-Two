@@ -13,7 +13,8 @@ Week 7:
 	Kingsley will focus on our app logo design, backend coding, Project Proposal Document (docx). 
 	Joey will focus on edit readme.txt, update changelog.txt in a weekly basis, frontend coding, UI design,Project Proposal Document (docx).
 	We will both work on Project Proposal Document and Project Directory.
-
+30/04/2020 Joey created first 5 pages of UI design and frontend coding.
+01/05/2020 Kingsley created app logo design and completed backend coding for first 5 pages.
 
 
 
