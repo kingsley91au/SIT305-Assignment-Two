@@ -2,58 +2,44 @@ Changelog.txt
 
 Week 6:
 20/04/2020 Formed a team of two for this project
-
 21/04/2020 We listed out all the questions and inquiries regarding ot assignment 2, and sent it to the unit chair
-
 22/04/2020 We chose GitHub as our version control system for this assignment
 
 
 Week 7:
 28/04/2020 Arranged time for meeting
-
 29/04/2020 We had 1 hour meeting through MS Teams. We chose our mobile app as data storage app - travel planner. 
 	We have discussed on task division.
 	Kingsley will focus on our app logo design, backend coding, Project Proposal Document (docx). 
 	Joey will focus on edit readme.txt, update changelog.txt in a weekly basis, frontend coding, UI design,Project Proposal Document (docx).
 	We will both work on Project Proposal Document and Project Directory.
-	
 30/04/2020 Joey designed the application icon
-
 01/05/2020 Kingsley changed the application icon
+
+02/05/2020 Joey designed the UI and frontend development of Main page
+02/05/2020 Kingsley completed backend development for Main page
+
+03/05/2020 Joey designed the UI and frontend development of Signup page
+03/05/2020 Kingsley completed backend development for Signup page
 
 
 Week 8:
-05/05/2020 Joey designed the UI and frontend development of Main page
-05/05/2020 Kingsley completed backend development for Main page
+04/05/2020 Joey designed the UI and frontend development of Login page
+04/05/2020 Kingsley completed backend development for Login page
 
-06/05/2020 Joey designed the UI and frontend development of Signup page
-06/05/2020 Kingsley completed backend development for Signup page
+05/05/2020 Joey designed the UI and frontend development of Recycle view layout
+05/05/2020 Kingsley completed backend development for Item adapter
 
-07/05/2020 Joey designed the UI and frontend development of Login page
-07/05/2020 Kingsley completed backend development for Login page
+06/05/2020 Joey researched Facebook login process
+06/05/2020 Kingsley completed backend development for Data save
 
+07/05/2020 Joey designed the UI and frontend development of addList
+07/05/2020 Kingsley completed backend development for addList
 
+08/05/2020 Joey designed the UI and frontend development of ListView
+08/05/2020 Kingsley completed backend development for ListView
 
-Week 9:
-12/05/2020 Joey designed the UI and frontend development of Recycle view layout
-12/05/2020 Kingsley completed backend development for Item adapter
+09/05/2020 Joey designed the UI and frontend development of Search function
+09/05/2020 Kingsley completed backend development for Search function
 
-13/05/2020 Joey researched Facebook login process
-13/05/2020 Kingsley completed backend development for Data save
-
-
-
-Week 10:
-19/05/2020 Joey designed the UI and frontend development of addList
-19/05/2020 Kingsley completed backend development for addList
-
-20/05/2020 Joey designed the UI and frontend development of ListView
-20/05/2020 Kingsley completed backend development for ListView
-
-
-Week 11:
-26/05/2020 Joey designed the UI and frontend development of Search function
-26/05/2020 Kingsley completed backend development for Search function
-
-27/05/2020 Joey and Kingsley did testing on the app in in different Android devices, completed Project Proposal and demonstration video 
-
+10/05/2020 Joey and Kingsley did testing on the app in in different Android devices, completed Project Proposal and demonstration video 
