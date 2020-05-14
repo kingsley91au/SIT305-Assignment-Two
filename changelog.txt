@@ -42,4 +42,8 @@ Week 8:
 09/05/2020 Joey designed the UI and frontend development of Search function
 09/05/2020 Kingsley completed backend development for Search function
 
-10/05/2020 Joey and Kingsley did testing on the app in in different Android devices, completed Project Proposal and demonstration video 
+
+
+Week 9:
+13/05/2020 We had 1 hour meeting through MS Teams.
+15/05/2020 Joey and Kingsley did testing on the app in in different Android devices, completed Project Proposal and demonstration video 
