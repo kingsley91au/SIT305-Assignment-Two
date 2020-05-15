@@ -16,16 +16,16 @@ Week 7:
 30/04/2020 Joey designed the application icon
 01/05/2020 Kingsley changed the application icon
 
-02/05/2020 Joey designed the UI and frontend development of Main page
-02/05/2020 Kingsley completed backend development for Main page
+02/05/2020 Joey designed the UI and frontend development of Start page
+02/05/2020 Kingsley completed backend development for Start page
 
-03/05/2020 Joey designed the UI and frontend development of Signup page
-03/05/2020 Kingsley completed backend development for Signup page
+03/05/2020 Joey designed the UI and frontend development of Profile Image Insert.
+03/05/2020 Kingsley completed backend development for Profile Image Insert.
 
 
 Week 8:
-04/05/2020 Joey designed the UI and frontend development of Login page
-04/05/2020 Kingsley completed backend development for Login page
+04/05/2020 Joey designed the UI and frontend development of Search page
+04/05/2020 Kingsley completed backend development for Search page
 
 05/05/2020 Joey designed the UI and frontend development of Recycle view layout
 05/05/2020 Kingsley completed backend development for Item adapter
