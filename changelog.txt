@@ -30,8 +30,6 @@ Week 8:
 05/05/2020 Joey designed the UI and frontend development of Recycle view layout
 05/05/2020 Kingsley completed backend development for Item adapter
 
-06/05/2020 Joey researched Facebook login process
-06/05/2020 Kingsley completed backend development for Data save
 
 07/05/2020 Joey designed the UI and frontend development of addList
 07/05/2020 Kingsley completed backend development for addList
@@ -46,4 +44,6 @@ Week 8:
 
 Week 9:
 13/05/2020 We had 1 hour meeting through MS Teams.
-15/05/2020 Joey and Kingsley did testing on the app in in different Android devices, completed Project Proposal and demonstration video 
+
+Week 10:
+20/05/2020 Joey and Kingsley did testing on the app in different Android devices, completed Project Proposal and demonstration video 
