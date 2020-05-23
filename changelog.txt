@@ -45,5 +45,19 @@ Week 8:
 Week 9:
 13/05/2020 We had 1 hour meeting through MS Teams.
 
+14/05/2020 Joey edited activity_addlist.xml
+
+15/05/2020 Joey edited activity_list_view.xml
+
+17/05/2020 Joey edited activity_main.xml
+
+18/05/2020 Joey edited recycler_layout.xml
+
+19/05/2020 Joey added button_radius.xml and gradient_color.xml
+
+20/05/2020 Joey added rounded_fg.xml
+
+21/05/2020 Joey added strings.xml and styles.xml
+
 Week 10:
-20/05/2020 Joey and Kingsley did testing on the app in different Android devices, completed Project Proposal and demonstration video 
+25/05/2020 Joey and Kingsley did testing on the app in different Android devices, completed Project Proposal and demonstration video 
