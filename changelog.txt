@@ -47,17 +47,27 @@ Week 9:
 
 14/05/2020 Joey edited activity_addlist.xml
 
+15/05/2020 Kingsley edited addlist.java
 15/05/2020 Joey edited activity_list_view.xml
 
+16/05/2020 Kingsley edited DataSave.java
+
 17/05/2020 Joey edited activity_main.xml
+17/05/2020 Kingsley edited itemAdapter.java
 
 18/05/2020 Joey edited recycler_layout.xml
+18/05/2020 Kingsley edited ItemTouchHelperAdapter.java and MyItemTouchHelper.java
 
 19/05/2020 Joey added button_radius.xml and gradient_color.xml
+19/05/2020 Kingsley edited list_view.java
 
 20/05/2020 Joey added rounded_fg.xml
 
 21/05/2020 Joey added strings.xml and styles.xml
 
+22/05/2020 Kingsley edited MainActivity.java
+
+
+
 Week 10:
-25/05/2020 Joey and Kingsley did testing on the app in different Android devices, completed Project Proposal and demonstration video 
+26/05/2020 Joey and Kingsley did testing on the app in different Android devices, completed Project Proposal and demonstration video 
