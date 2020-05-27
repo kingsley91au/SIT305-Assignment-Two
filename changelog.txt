@@ -70,4 +70,6 @@ Week 9:
 
 
 Week 10:
-26/05/2020 Joey and Kingsley did testing on the app in different Android devices, completed Project Proposal and demonstration video 
+26/05/2020 Joey and Kingsley did testing on the app in different Android devices.
+
+27/05/2020 Joey and Kingsley completed Project Proposal and demonstration video.
